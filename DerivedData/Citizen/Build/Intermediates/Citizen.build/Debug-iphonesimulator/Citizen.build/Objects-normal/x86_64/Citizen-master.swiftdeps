@@ -1,0 +1,9 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.49.6 clang-602.0.49)"
+options: "ca099f4ad40c26f2309df1c0617d5d92"
+inputs: 
+- "/Users/mickaeljordan/Desktop/Citizen/Citizen/dashboardCell.swift"
+- "/Users/mickaeljordan/Desktop/Citizen/Citizen/DetailViewController.swift"
+- "/Users/mickaeljordan/Desktop/Citizen/Citizen/cell.swift"
+- "/Users/mickaeljordan/Desktop/Citizen/Citizen/LeftViewController.swift"
+- "/Users/mickaeljordan/Desktop/Citizen/Citizen/MainViewController.swift"
+- "/Users/mickaeljordan/Desktop/Citizen/Citizen/AppDelegate.swift"
